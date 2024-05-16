@@ -8,4 +8,4 @@ How to use code:
 3. Run and wait.
 4. Check for corners.
 
-This project was done with the help of Dr. John Korah for CS4610/4620 for a Senior Project.
+This project was done with the help of Dr. John Korah for CS4610/4620 for a Senior Project under "Real Time Image Processing"
